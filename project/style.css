@@ -1,0 +1,26 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+body {
+  background: url(桌面5.jpg);
+}
+nav {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  min-height: 8vh;
+  background-color: #000;
+  font-family: "Press Start 2P", cursive;
+}
+.burger {
+  color: #fff;
+}
+h2 {
+  color: #fff;
+  font-family: "Press Start 2P", cursive;
+}
+.text-center {
+  font-family: "Press Start 2P", cursive;
+}
